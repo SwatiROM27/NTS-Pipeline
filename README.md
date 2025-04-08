@@ -100,8 +100,7 @@ Both scripts include error handling for:
 - Missing directories
 - Invalid CSV formats
 
-If you encounter any errors:
-1. Check your input CSV format
-2. Ensure you have proper file permissions
-3. Verify your URLs are valid
-4. For scraping, verify your API key in `.env`
+If you encounter any errors, check:
+1. Your `.env` file has a valid API key
+2. Your CSV file is properly formatted
+3. All URLs in the CSV are valid and include the full protocol (https://)
