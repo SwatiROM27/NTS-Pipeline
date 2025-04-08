@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Green Chemical Production Processes",
+            "priority": 1,
+            "evidence": "The ALTA GROUP started as a consultancy for sustainable chemical and physical process solutions. This service is still provided today."
+        },
+        {
+            "name": "Energy Materials",
+            "priority": 2,
+            "evidence": "...invest in manufacturing facilities for the production of green organic carbonates in order to supply components for electrolytes to be used in the booming battery market in Europe."
+        },
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 3,
+            "evidence": "...manufacture & sales of green organic cyclic and lineair carbonates."
+        }
+    ],
+    "reason_no_match": null
+}

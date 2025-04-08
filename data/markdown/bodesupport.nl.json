@@ -1,0 +1,11 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Energy Materials",
+            "priority": 1,
+            "evidence": "Het Brabants Ontwikkel fonds Duurzame Energie (BODE) is een provincie breed initiatief, bedoeld voor projecten op het gebied van hernieuwbare energie."
+        }
+    ],
+    "reason_no_match": null
+}

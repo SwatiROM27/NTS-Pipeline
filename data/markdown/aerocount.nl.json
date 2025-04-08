@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Imaging Technology",
+            "priority": 1,
+            "evidence": "AeroCount helps you to measure what the quality is of the air that you in ademt."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "The company's focus on measuring air quality implies the use of data analytics to interpret air quality data."
+        }
+    ],
+    "reason_no_match": null
+}

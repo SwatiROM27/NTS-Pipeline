@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 1,
+            "evidence": "We measure autonomous emitters or receivers. Whatever they look like, we’ve got your back."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "Automate testing with our API"
+        },
+        {
+            "name": "Imaging Technology",
+            "priority": 3,
+            "evidence": "Gain new insights into your device performance with a single tabletop system."
+        }
+    ],
+    "reason_no_match": null
+}

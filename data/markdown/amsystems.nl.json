@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 1,
+            "evidence": "The MLP system is described as a 'modular, multi-laser exposure unit' and involves 'high-tech opto-mechatronic equipment' as mentioned in Jac Jamar's expertise."
+        },
+        {
+            "name": "Imaging Technology",
+            "priority": 2,
+            "evidence": "The MLP system is a 'revolution in exposure technology' and involves 'high resolution, high productivity printing' with '20 diodes' addressing 'spots of 20 microns'."
+        },
+        {
+            "name": "Semiconductors",
+            "priority": 3,
+            "evidence": "The system uses '20 vertical beams' and 'each diode fired through it' indicating the use of semiconductor laser technology."
+        }
+    ],
+    "reason_no_match": null
+}

@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 1,
+            "evidence": "Wij ontwerpen, monteren, installeren en onderhouden diverse innoverende machines."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "Wij denken in oplossingen en stellen ons iedere dag dienstbaar op."
+        }
+    ],
+    "reason_no_match": null
+}

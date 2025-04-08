@@ -1,0 +1,14 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "evidence": "BlueGen.ai simuleert echte data en genereert privacyveilige synthetische data waarmee u data-gedreven kunt innoveren. BlueGen\u2019s platform gebruikt AI om privacyveilige synthetische data te genereren die zich gedraagt en eruitziet als echte data."
+        },
+        {
+            "name": "Cybersecurity",
+            "evidence": "Privacyveilige en nauwkeurige risicobeoordelingen. De differenti\u00c3\u00able privacy van BlueGen verzekert de privacy van uw data. Privacy verzekerde data voor uitwisselen van gegevens en samenwerking."
+        }
+    ],
+    "reason_no_match": null
+}

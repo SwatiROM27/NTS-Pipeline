@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 1,
+            "evidence": "Verzamel data met behulp van A.I. Vertel de A.I. welke klantgroepen jij onderscheidt. Nieuwe klanten krijgen door A.I. vragen voorgeschoteld die hen direct segmenteert in jouw bestaande klantgroepen."
+        },
+        {
+            "name": "Cybersecurity",
+            "priority": 2,
+            "evidence": "Mensen willen niet dat hun data wordt doorverkocht. Door het ontvangen van deze persoonlijke gegevens kan jouw bedrijf nieuwe use-cases realiseren, met expliciet toestemming van de consument."
+        }
+    ],
+    "reason_no_match": null
+}

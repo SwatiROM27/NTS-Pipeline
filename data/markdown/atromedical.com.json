@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 1,
+            "evidence": "ATRO Medical’s artificial meniscus Artimis® replaces your meniscus. This means you will return to your daily activities, with heavy sports excluded, while reducing chronic pains: a flexible yet strong solution to your knee problems."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "The durable meniscus prosthesis of ATRO Medical will be designed in 3D based on artificial intelligence, developed by the Orthopaedic Research Lab."
+        }
+    ],
+    "reason_no_match": null
+}

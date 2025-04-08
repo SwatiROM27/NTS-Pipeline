@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 1,
+            "evidence": "Smart device with integrated sensors, real-time track and trace technology, and data exchange and processing capabilities."
+        },
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 2,
+            "evidence": "Smart medical device, corresponding data modules, and our team’s industrial process skills."
+        },
+        {
+            "name": "Cybersecurity",
+            "priority": 3,
+            "evidence": "Process digitalization and real-time parametric release for improved operating room service and optimized surgical instrument rotation."
+        }
+    ],
+    "reason_no_match": null
+}

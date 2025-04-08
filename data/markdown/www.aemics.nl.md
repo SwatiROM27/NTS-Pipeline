@@ -1,0 +1,10 @@
+[Skip to content](https://www.aemics.nl/#content)
+
+- [offerte](https://www.aemics.nl/offerte-prototypen/)
+- [PYg boards](https://www.aemics.nl/pyg/)
+- [vacatures](https://werkenbijaemics.nl/vacatures/type/algemeen/)
+- [stage](https://werkenbijaemics.nl/vacatures/type/stage-afstuderen/)
+- [contact](https://www.aemics.nl/contact/)
+- [klantenportaal](https://portal.aemics.nl/)
+- [webshop](https://www.aemics.nl/webshop/)
+- [0 items](https://www.aemics.nl/webshop/ "Start shopping")

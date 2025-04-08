@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 1,
+            "evidence": "Machinefabriek Boessenkool is a full-fledged supplier of parts and devices, complete machines and products. The company specializes in large-format, extremely precise, and small series production, indicating a strong focus on mechatronics."
+        },
+        {
+            "name": "Semiconductors",
+            "priority": 2,
+            "evidence": "The mention of 'branche_chip' suggests involvement in the semiconductor industry, which is a key technology area."
+        },
+        {
+            "name": "Energy Materials",
+            "priority": 3,
+            "evidence": "The text mentions 'products focused on CO2 reduction, energy storage, recycling, and renewable resources,' indicating a connection to energy materials."
+        }
+    ],
+    "reason_no_match": null
+}

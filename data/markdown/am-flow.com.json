@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 1,
+            "evidence": "By leveraging deep tech innovation, AI-driven solutions, and precision vision technology, we streamline workflows, delivering unparalleled automated excellence and seamless operations."
+        },
+        {
+            "name": "Imaging Technology",
+            "priority": 2,
+            "evidence": "AM-Flow provides automated quality control, AI-driven workflow optimization, and precision vision technology, integrating with existing systems for real-time data and tailored automation."
+        },
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 3,
+            "evidence": "AM-Flow's identification and sorting capabilities have optimized our SLS and MJF processes, balancing density and geometry to reduce build costs."
+        }
+    ],
+    "reason_no_match": null
+}

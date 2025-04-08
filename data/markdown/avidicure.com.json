@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 1,
+            "evidence": "Avidicure is pioneering an entirely new dual agonistic, multifunctional and avidity engineered antibody modality, 'AVC-Boosters', designed to safely deliver targeted and potent monotherapy, with broad applicability in oncology."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "The platform was designed combining decades of antibody engineering know-how, in silico design capabilities and immunology expertise."
+        }
+    ],
+    "reason_no_match": null
+}

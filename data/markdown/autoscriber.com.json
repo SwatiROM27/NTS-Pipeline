@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 1,
+            "evidence": "The Autoscriber App takes structured clinical notes for you in real-time during conversations with patients. Autoscriber Ambient Listening Solutions streamline clinical documentation by using AI to capture, transcribe, and organise conversations in real time."
+        },
+        {
+            "name": "Cybersecurity",
+            "priority": 2,
+            "evidence": "ISO certified, GDPR and EU AI Act compliant. Autoscriber protects patient data and assures healthcare providers of a secure, responsible AI tool in their practice."
+        }
+    ],
+    "reason_no_match": null
+}

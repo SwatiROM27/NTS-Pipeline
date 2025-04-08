@@ -1,0 +1,1 @@
+[Click here to buy this domain](https://www.godaddy.com/forsale/getfastr.co)

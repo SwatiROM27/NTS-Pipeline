@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Energy Materials",
+            "priority": 1,
+            "evidence": "Op Arnhems Buiten zijn een aantal van de meest innovatieve bedrijven van Nederland gevestigd, onder meer op het gebied van energie, certificering en milieutechnologie."
+        },
+        {
+            "name": "Green Chemical Production Processes",
+            "priority": 2,
+            "evidence": "Op Arnhems Buiten zijn een aantal van de meest innovatieve bedrijven van Nederland gevestigd, onder meer op het gebied van energie, certificering en milieutechnologie."
+        }
+    ],
+    "reason_no_match": null
+}

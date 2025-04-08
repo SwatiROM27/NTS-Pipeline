@@ -1,0 +1,1 @@
+[Buy this domain. \| More domains at Seo.Domains](https://www.mydomaincontact.com/?domain_name=ideedock.com)

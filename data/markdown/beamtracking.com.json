@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 1,
+            "evidence": "Beam biedt een gebruiksvriendelijke applicatie, plug-and-play integratie van RFID-scanners en gestandaardiseerde koppelingen met ERP-systemen."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "Door slimme automatisering en scanapparatuur vermindert Beam drastisch de kosten en elimineert het inefficiënte processen."
+        }
+    ],
+    "reason_no_match": null
+}

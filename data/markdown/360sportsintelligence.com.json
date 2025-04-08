@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Imaging Technology",
+            "priority": 1,
+            "evidence": "360SportsIntelligence – Maakt videoanalyse toegankelijk voor iedereen"
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "Met onze door AI getrainde zijkantcamera wordt het spel automatisch gevolgd!"
+        },
+        {
+            "name": "Cybersecurity",
+            "priority": 3,
+            "evidence": "Wij zorgen dat alle beelden veilig worden opgeslagen. De club bepaalt wie er toegang krijgt."
+        }
+    ],
+    "reason_no_match": null
+}

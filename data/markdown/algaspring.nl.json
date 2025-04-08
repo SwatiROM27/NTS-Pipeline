@@ -1,0 +1,11 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 1,
+            "evidence": "NannoStar and NutriSpring are 100% Dutch quality microalgae products and produced in a pristine location... Our microalgae are grown on ancient seawater..."
+        }
+    ],
+    "reason_no_match": null
+}

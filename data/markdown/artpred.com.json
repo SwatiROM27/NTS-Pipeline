@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 1,
+            "evidence": "ARTPred is a research driven medtech company in the field of reproductive health."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "We want to fundamentally improve global fertility care by making our technologies available to every fertility patient."
+        }
+    ],
+    "reason_no_match": null
+}

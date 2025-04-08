@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Energy Materials",
+            "priority": 1,
+            "evidence": "The 2B6 wind turbine is carefully designed and integrated in an overall plant view that reaches substantial Cost of Energy savings over plant life."
+        },
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 2,
+            "evidence": "EXPERTS ON WINDTURBINES ON FLOATERS"
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 3,
+            "evidence": "setting new standards and targets"
+        }
+    ],
+    "reason_no_match": null
+}

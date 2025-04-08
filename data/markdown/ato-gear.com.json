@@ -1,0 +1,21 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 1,
+            "evidence": "Over 15 years of R&D and a cast database are the basis for ARIONs unique algorithms and AI engine."
+        },
+        {
+            "name": "(Opto)Mechatronics",
+            "priority": 2,
+            "evidence": "Together with the world’s most sophisticated smart wearable insole, we are establishing the groundwork for our distinctive ARION ecosystem."
+        },
+        {
+            "name": "Imaging Technology",
+            "priority": 3,
+            "evidence": "Providing data and insights into the field of sports."
+        }
+    ],
+    "reason_no_match": null
+}

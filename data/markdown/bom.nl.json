@@ -1,0 +1,31 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Optics and Integrated Photonics",
+            "priority": 1,
+            "evidence": "SMART Photonics maakt de productie mogelijk van Indium Phosphide based photonic integrated circuits (PICs)."
+        },
+        {
+            "name": "Green Chemical Production Processes",
+            "priority": 2,
+            "evidence": "VitalFluid vermindert het gebruik van kunstmest en pesticiden door de desinfecterende werking van Plasma Activated Water."
+        },
+        {
+            "name": "Energy Materials",
+            "priority": 3,
+            "evidence": "RIFT richt zich op industriële bedrijven met een grote warmtevraag. Via ijzerverbranding kan RIFT het productieproces CO2vrij maken en NOx reduceren."
+        },
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 4,
+            "evidence": "Salvia BioElectronics ontwikkelt een minimaal invasieve neuromodulatie therapie voor mensen die aan een chronische, neurologische aandoening lijden."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 5,
+            "evidence": "The Xyall Tissector bridges the gap between histopathology and molecular pathology providing a platform for innovation by computational pathology."
+        }
+    ],
+    "reason_no_match": null
+}

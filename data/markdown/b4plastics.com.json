@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Green Chemical Production Processes",
+            "priority": 1,
+            "evidence": "We create, produce, sell and license renewable and/or recyclable/biodegradable materials for all industries."
+        },
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 2,
+            "evidence": "Belgium-based biotechnology company B4Plastics is taking a revolutionary step in sustainable innovation with the development of programmed biodegradable material for the first biodegradable drainage pipe, ‘Verdiflex’."
+        }
+    ],
+    "reason_no_match": null
+}

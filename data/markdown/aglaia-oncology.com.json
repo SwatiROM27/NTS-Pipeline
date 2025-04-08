@@ -1,0 +1,16 @@
+{
+    "match": true,
+    "technologies": [
+        {
+            "name": "Biotechnology (focused on molecules and cells)",
+            "priority": 1,
+            "evidence": "Aglaia invests in oncology drug development companies. Aglaia has a proven ability to select and mature early-stage breakthrough inventions that have the potential to transform cancer treatment."
+        },
+        {
+            "name": "Artificial Intelligence (AI) and Data",
+            "priority": 2,
+            "evidence": "The joint development of a fully dedicated, highly versatile and flexible web-based platform for impact measuring and reporting in the life sciences industry, called Life Sciences Impact Suite."
+        }
+    ],
+    "reason_no_match": null
+}

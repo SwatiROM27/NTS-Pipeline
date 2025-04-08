@@ -1,0 +1,5 @@
+# home
+
+# Innovation using Thermoplastic Composites starts with Cato
+
+Cato Composites develops and manufactures light weight products and components using thermoplastic composite materials. Our expertise covers extensive know-how thermoplastic composite materials from material, design to manufacturing. We co-develop products by reducing weight, improving energy absorption, adding strength or creating a great visual design. We follow a precise procedure for development and scale-up to manufacturing with the aim to manufacture and supply components and products from our factory in Rheden (NL) to our customers are located world wide. All that with surprising cost efficiency and constant high quality. We call that ’the Cato craft’. [\> more](https://www.cato-composites.com/the-company/ "more about Cato")
