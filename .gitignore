@@ -12,5 +12,12 @@ wheels/
 # Environment variables
 .env
 
-# CSV files
+# other files and directories
 *.csv
+*.json
+*.md
+*.txt
+*.jsonl
+*.jsonl.gz
+*.jsonl.gz.part
+output/
