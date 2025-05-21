@@ -31,7 +31,14 @@ def read_urls_from_csv(csv_path: str) -> List[str]:
     try:
         with open(csv_path, 'r', newline='', encoding='utf-8-sig') as csvfile:
             reader = csv.DictReader(csvfile)
-            if 'url' not in reader.fieldnames:
+            # Normalize header fieldnames
+            if reader.fieldnames is None:
+                raise ValueError("CSV file appears to be empty or has no headers.")
+            
+            normalized_fields = [f.strip().lower() for f in reader.fieldnames]
+            print("Columns found:", normalized_fields)
+
+            if 'url' not in normalized_fields:
                 raise ValueError("CSV file must contain a column named 'url'")
             urls = [row['url'].strip() for row in reader if row['url']]
         return urls
